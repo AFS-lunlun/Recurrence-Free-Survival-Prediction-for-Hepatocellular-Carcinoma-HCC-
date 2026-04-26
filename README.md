@@ -1,0 +1,2 @@
+# Recurrence-Free-Survival-Prediction-for-Hepatocellular-Carcinoma-HCC-
+This project implements and compares two machine learning approaches for predicting **recurrence-free survival (RFS)** in Hepatocellular Carcinoma (HCC) patients using TCGA-LIHC (Liver Hepatocellular Carcinoma) dataset. The models predict the probability of tumor recurrence after initial treatment based on transcriptomic expression profiles.
